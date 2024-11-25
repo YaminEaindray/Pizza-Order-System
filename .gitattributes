@@ -1,0 +1,12 @@
+* text=auto
+
+*.php diff=php
+
+*.md diff=markdown
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+
+*.html linguist-detectable=false
+*.js linguist-detectable=false
+*.css linguist-detectable=false
